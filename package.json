@@ -1,0 +1,15 @@
+{
+  "name": "resourcebot-discord",
+  "version": "1.0.0",
+  "description": "Bot for managing resources",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {},
+  "author": "Miguel Morelli",
+  "license": "ISC"
+}
